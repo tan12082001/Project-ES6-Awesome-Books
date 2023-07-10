@@ -84,7 +84,7 @@ In order to run this project you need: Linters
 Clone this repository to your desired folder:
 ```sh
   cd my-folder
-  git clone git@github.com:tan12082001/Project-AwesomeBooks.git
+  git clone git@github.com:tan12082001/Project-ES6-Awesome-Books.git
 ```
 
 ### Usage
