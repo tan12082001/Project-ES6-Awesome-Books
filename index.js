@@ -1,4 +1,3 @@
-/* eslint-disable max-classes-per-file */
 // imports from the Modules.
 import { Activity, storage } from './modules/featureModule.js';
 import {
