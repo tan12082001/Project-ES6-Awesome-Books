@@ -15,8 +15,6 @@ Goal of "Project Awesome Books with ES6" is creating a functioning webpage where
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -56,10 +54,6 @@ Goal of "Project Awesome Books with ES6" is creating a functioning webpage where
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://tan12082001.github.io/Project-ES6-Awesome-Books/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- WALKTHROUGH -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
